@@ -1,6 +1,6 @@
 /**
  *
- * Dispatches an event when the user scrolls to the bottom of the page. 
+ * Calls a given callback when the user scrolls to the bottom of the page. 
  * This will use the throttle-debounce plugin if it is available.
  * 
  * @author Shiki
